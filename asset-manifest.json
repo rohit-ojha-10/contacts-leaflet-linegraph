@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contacts-leaflet-linegraph/static/css/main.a0611a3a.css",
+    "main.js": "/contacts-leaflet-linegraph/static/js/main.b4931d0d.js",
+    "static/js/787.01a743a1.chunk.js": "/contacts-leaflet-linegraph/static/js/787.01a743a1.chunk.js",
+    "static/media/error-404.png": "/contacts-leaflet-linegraph/static/media/error-404.114cc84c318964a05126.png",
+    "index.html": "/contacts-leaflet-linegraph/index.html",
+    "main.a0611a3a.css.map": "/contacts-leaflet-linegraph/static/css/main.a0611a3a.css.map",
+    "main.b4931d0d.js.map": "/contacts-leaflet-linegraph/static/js/main.b4931d0d.js.map",
+    "787.01a743a1.chunk.js.map": "/contacts-leaflet-linegraph/static/js/787.01a743a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0611a3a.css",
+    "static/js/main.b4931d0d.js"
+  ]
+}
