@@ -61,16 +61,6 @@ export const options = {
   },
 };
 
-export const labels = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-];
-
 interface graphProps {
   labels: Array<string>;
   cases_data: Array<string>;

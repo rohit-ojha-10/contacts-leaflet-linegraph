@@ -7,7 +7,7 @@ interface contact {
 interface modalProps {
   setOpenModal: (isOpen: boolean) => void;
   contacts: Array<contact>;
-  setContacts: React.Dispatch<React.SetStateAction<Array<contact>>>; // Add the setContacts prop
+  setContacts: React.Dispatch<React.SetStateAction<Array<contact>>>;
 }
 export default function Modal(props: modalProps) {
   const { setOpenModal, setContacts, contacts } = props;

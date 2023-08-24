@@ -4,7 +4,7 @@ import { QueryClient, QueryClientProvider, useQuery } from "react-query";
 import Sidebar from "./Sidebar";
 import LineGraph from "./LineGraph";
 export default function Analytics() {
-  const { isLoading, error, data } = useQuery("repoData", () =>
+  const { isLoading, error, data } = useQuery("analyticsData", () =>
     fetch("https://disease.sh/v3/covid-19/countries").then((res) => res.json())
   );
   if (isLoading) return <h1>Loading...</h1>;
